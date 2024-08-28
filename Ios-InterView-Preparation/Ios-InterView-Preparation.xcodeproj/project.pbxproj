@@ -13,6 +13,7 @@
 		735C8A682C7F29D800B8A7E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 735C8A662C7F29D800B8A7E6 /* Main.storyboard */; };
 		735C8A6A2C7F29DC00B8A7E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 735C8A692C7F29DC00B8A7E6 /* Assets.xcassets */; };
 		735C8A6D2C7F29DC00B8A7E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 735C8A6B2C7F29DC00B8A7E6 /* LaunchScreen.storyboard */; };
+		735C8A752C7F2A2C00B8A7E6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 735C8A742C7F2A2C00B8A7E6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		735C8A692C7F29DC00B8A7E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		735C8A6C2C7F29DC00B8A7E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		735C8A6E2C7F29DC00B8A7E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		735C8A742C7F2A2C00B8A7E6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		735C8A5F2C7F29D800B8A7E6 /* Ios-InterView-Preparation */ = {
 			isa = PBXGroup;
 			children = (
+				735C8A742C7F2A2C00B8A7E6 /* README.md */,
 				735C8A602C7F29D800B8A7E6 /* AppDelegate.swift */,
 				735C8A622C7F29D800B8A7E6 /* SceneDelegate.swift */,
 				735C8A642C7F29D800B8A7E6 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				735C8A6D2C7F29DC00B8A7E6 /* LaunchScreen.storyboard in Resources */,
 				735C8A6A2C7F29DC00B8A7E6 /* Assets.xcassets in Resources */,
+				735C8A752C7F2A2C00B8A7E6 /* README.md in Resources */,
 				735C8A682C7F29D800B8A7E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
